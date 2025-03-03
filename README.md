@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sasidhar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on [LuxRentFashion](https://lux-rent-fashion.vercel.app/)
+- 🔭 I’m currently working as a Software Engineer
 
-- 🌱 I’m currently learning **MongoDB, ExpressJs, ReactJs & NodeJS (MERN) Stack**
+- 🌱 I have learned **MongoDB, ExpressJs, ReactJs & NodeJS (MERN) Stack, SpringBoot, Java**
 
 - 👨‍💻 All of my projects are available at [https://sasidhar-veerni-portfolio.vercel.app/](https://sasidhar-veerni-portfolio.vercel.app/)
 
